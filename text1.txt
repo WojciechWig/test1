@@ -12,4 +12,4 @@ agata
 new table
 bugfix branch
 bigfix/table2
-bugfix/table3 - done on main branch
+bugfix/table3
