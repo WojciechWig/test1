@@ -11,3 +11,4 @@ marzena
 agata
 new table
 bugfix branch
+bigfix/table2
