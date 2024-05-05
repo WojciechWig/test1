@@ -1,4 +1,5 @@
 # some names
+# changes done in branch feature1
 tomek
 wojtek
 piotrek
@@ -6,3 +7,5 @@ krzysiek
 grzesiek
 adrian
 maciej
+marzena
+agata
